@@ -27,7 +27,7 @@ local UICorner_2 = Instance.new("UICorner")
 --Properties:
 
 RicosToolHub.Name = "RicosToolHub"
-RicosToolHub.Parent = game.Workspace
+RicosToolHub.Parent = game.CoreGui
 RicosToolHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = RicosToolHub
